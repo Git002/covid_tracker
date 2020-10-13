@@ -14,7 +14,7 @@ def send_mail(df, mail):
     s.starttls()
 
     # Authentication
-    s.login("andrew.whiteman77@gmail.com", "avinashy77")
+    s.login("email", "pass")
 
     # message to be sent
     message = df
