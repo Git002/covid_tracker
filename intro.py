@@ -40,7 +40,7 @@ Version: 1.0.0
     def Warnings(self, cmd=""):
         if cmd == "":
             click.secho(
-                "Error (01): You have a Syntax error in your query. Check -h command for help", fg='red')
+                "Error (01): You have a Syntax error in your query. Check show help command for help", fg='red')
         elif cmd == self.NO_DATABASE_ERROR:
             click.secho(
                 "Error (02): Can't perform operation because No such Database Exists", fg='red')
