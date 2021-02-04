@@ -1,3 +1,1 @@
-# covid_tracker
-This is a free open source project. Just a fun one. Feel free to contribute and make ur own...
-
+# covid 19
