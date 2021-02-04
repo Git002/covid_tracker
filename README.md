@@ -1,4 +1,2 @@
 # covid 19
-hello
-
-how r u??
+This is a free and open source project...
