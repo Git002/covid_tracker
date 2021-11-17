@@ -18,3 +18,4 @@ Just open it, and it will show you the screen like this:
 
 ![Main.py](https://i.postimg.cc/5NCsw5ss/Capture.png)
 
+And then figure out the fuck out of yourself...
