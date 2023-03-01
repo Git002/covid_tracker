@@ -12,10 +12,3 @@
 - [x] matplotlib
 - [x] MySql version 8.0 command line
 
-# Explaining the project
-The project has basically many modules the one to start off is the `main.py`
-Just open it, and it will show you the screen like this:
-
-![Main.py](https://i.postimg.cc/5NCsw5ss/Capture.png)
-
-And then figure the fuck out of yourself...
